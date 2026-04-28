@@ -1,46 +1,46 @@
-🛒 Amazon Clone
+🎧 Spotify Clone
 
-A fully responsive Amazon Clone built using HTML, CSS, and JavaScript.
-This project replicates the core UI and basic functionality of the Amazon website, providing a real-world e-commerce front-end experience.
 
-#Features
+🚀 About Project
 
-- 🏠 Homepage with product listings
-- 🔍 Search bar UI
-- 🛍️ Add to cart functionality (basic)
-- 📱 Responsive design for mobile & desktop
-- 🎨 Clean and modern UI similar to Amazon
+This Spotify Clone is a front-end project built using HTML, CSS, and JavaScript.
+It mimics the core design and basic functionality of Spotify, providing a smooth and interactive music experience.
 
-#Tech Stack
+---
 
-- HTML5
-- CSS3
-- JavaScript
+✨ Features
 
-# Project Structure
+🎵 Play & Pause Music
+⏭ Next & Previous Tracks
+📃 Song List Interface
+🎧 Clean Music Player UI
+📱 Fully Responsive Design
 
-- "index.html"
-- "style.css"
-- "script.js"
-- "images/" (product images, banners)
+---
 
-# How to Run
+🛠️ Tech Stack
 
-1. Download or clone the repository
-2. Open "index.html" in your browser
-3. Explore the website
+💻 HTML
+🎨 CSS
+⚡ JavaScript
 
-# What I Learned
+▶️ How to Run
 
-- Building responsive layouts
-- DOM manipulation using JavaScript
-- Creating real-world UI clones
-- Improving frontend development skills
+1. Clone or download this repository
+2. Open the project folder
+3. Run index.html in your browser
+4. Enjoy the music 🎶
 
-🔗 Live Demo
+---
 
-(https://github.com/sandhujaat996-ui/spotify-clone.git)
+🌐 Live Demo
+https://github.com/sandhujaat996-ui/spotify-clone.git
 
-👨‍💻 Author
+🔮 Future Improvements
 
-Anish Sandhu
+🔍 Search Songs
+❤️ Add to Favorites
+🔊 Volume Control
+🌙 Dark / Light Mode
+
+ANISH SANDHU
